@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Navy circle background -->
+  <circle cx="60" cy="60" r="56" fill="#0f1f3d"/>
+  <!-- Gold arrow pointing up-right (growth/direction) -->
+  <polyline
+    points="30,85 30,40 75,40"
+    stroke="#c9a84c"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <polyline
+    points="52,62 75,40 53,17"
+    stroke="#c9a84c"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <!-- Gold dot accent -->
+  <circle cx="30" cy="85" r="5" fill="#c9a84c"/>
+</svg>

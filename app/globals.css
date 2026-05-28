@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #0f1f3d;
+  --color-navy-light: #1a3260;
+  --color-gold: #c9a84c;
+  --color-gold-light: #e8c97a;
+  --color-off-white: #f9f6f0;
+  --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-navy);
+  background-color: #ffffff;
+}
